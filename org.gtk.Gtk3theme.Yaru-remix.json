@@ -52,7 +52,7 @@
       "build-options": {
         "prefix": "/usr/share/runtime",
         "append-path": "/usr/share/runtime/share/themes/Yaru-remix/gtk-3.0/bin",
-        "config-opts": [ "-Dicons=false", "-Dgnome-shell=false", "-Ddark=false", "-Dlight=false"  ]
+        "config-opts": [ "-Dicons=false", "-Dgnome-shell=false", "-Ddark=false", "-Dlight=false", "-Dgresource=false"  ]
       },
       "sources": [
         {
